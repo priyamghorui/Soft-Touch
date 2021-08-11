@@ -1,0 +1,43 @@
+.heading_text {
+  font-size: 20px;
+  color: #fff;
+}
+.cp {
+  height: 130vh;
+}
+.black_text {
+  color: black;
+  margin-bottom: 0px;
+  margin: 4px;
+}
+.questions {
+  margin: 10px 0;
+  font-size: xx-large;
+  font-weight: 600;
+}
+
+.center_about {
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.mavber_right_margin {
+  margin-right: 12px;
+}
+.aa {
+  font-weight: bold;
+  color: red;
+}
+.aaa {
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+}
+
