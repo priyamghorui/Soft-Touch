@@ -1,5 +1,12 @@
-# Getting Started with Create React App
+# Soft Touch
 
+# About this App
+### This is a static React App.
+### This content pregnancy related site.
+
+# For Preview
+### Please visit "https://priyamghorui.github.io/Soft-Touch/"
+### ** Note - This site front page has some issues please refer from navigation bar in top ** 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
